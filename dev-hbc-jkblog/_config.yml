@@ -28,7 +28,7 @@ twitter_username: NA-TWITTER
 github_username:  NA-GITHUB
 
 # Deployment
-# destination:    _deploy #其实不用设置，默认输出到 `_site` 文件夹
+destination: ../docs
 
 # Build settings
 theme: minima
